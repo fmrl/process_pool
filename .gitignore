@@ -1,0 +1,16 @@
+# general.
+*.bak
+*.swp
+*~
+.bundle
+attic
+bin/rake
+bin/rubrstmp
+build
+doc
+ebin
+gh-pages
+vendor/bundle
+
+# specific to this project.
+
